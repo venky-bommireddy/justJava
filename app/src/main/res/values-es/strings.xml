@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff = "urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">justJava</string>
+    <string name="chocolate" translatable="false"></string>
+    <string name="toppings" translatable="false">Ingredientes</string>
+    <string name="whipped_cream" translatable="false">Crema batida</string>
+    <string name="submit_order">Ordenar</string>
+    <string name="thank_you">¡Gracias!</string>
+    <string name="quantity">Cantidad</string>
+    <string name="order_summary_name">Nombre: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+</resources>
